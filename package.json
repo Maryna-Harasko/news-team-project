@@ -2,7 +2,7 @@
   "name": "news-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VolodymyrDerkach97.github.io/news-team-project",
+  "homepage": "https://Maryna-Harasko.github.io/news-team-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /news-team-project/"
